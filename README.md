@@ -1,4 +1,4 @@
-# Customer_Segmenatation_RFM
+# Customer Segmenatation With RFM
 
 1- İş Problemi ( Bussines Problem)  
 2- Veriyi Anlama ( Data Understanding)  
@@ -14,16 +14,16 @@ RFM analysis is a powerful tool for customer segmentation and marketing strategi
 
 RFM metrics measure how often customers make purchases (Recency), how much they spend (Frequency), and how much money they spend (Monetary), scoring each customer based on these three metrics. This scoring system allows for segmenting customers based on their value and analyzing these segments in detail. Through these analyses, in-depth information about the characteristics and behaviors of each segment can be obtained to determine marketing strategies. Functioning this process allows for easy replication and automation when the data is updated or new customers are added. This enables companies to continuously implement up-to-date and accurate customer segmentation and marketing strategies.
 
-# İş Problemi (Business Problem)
+# Business Problem
 
-## Giriş
+## Introduction
 - E-ticaret şirketinin müşterilerini segmentlere ayırma ve pazarlama stratejileri belirleme isteği.  
 
-## Veri Seti Hikayesi
+## Data Set Story
 - Online Retail II veri seti  
 - İngiltere merkezli online satış mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını içeriyor.  
 
-## Değişkenler  
+## Variables
 • InvoiceNo: Invoice number. A unique number for each transaction or invoice. If it starts with 'C', it indicates a cancelled transaction.
 • StockCode: Product code. A unique number for each product.
 • Description: Product name.
@@ -33,7 +33,7 @@ RFM metrics measure how often customers make purchases (Recency), how much they 
 • CustomerID: Unique customer number.
 • Country: The name of the country. The country where the customer lives.
 
-## Analiz
+## Analysis
 - Müşteri alışveriş alışkanlıklarına göre segmentlere ayrılması  
 - Segmentlere özel pazarlama stratejilerinin belirlenmesi  
 - Müşteri memnuniyetinin artırılması  
