@@ -1,0 +1,2 @@
+# Customer_Segmenatation_RFM
+Customer_Segmenatation_RFM
