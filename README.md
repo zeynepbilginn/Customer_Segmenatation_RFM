@@ -9,3 +9,47 @@
 7- Tüm Sürecin Fonskiyonlaştırılması  
   
 RFM analysis is a powerful tool for customer segmentation and marketing strategies. This process helps understand customers' purchasing habits and effectively create marketing strategies by categorizing them into different segments based on that. RFM metrics measure how often customers make purchases (Recency), how much they spend (Frequency), and how much money they spend (Monetary), scoring each customer based on these three metrics. This scoring system allows for segmenting customers based on their value and analyzing these segments in detail. Through these analyses, in-depth information about the characteristics and behaviors of each segment can be obtained to determine marketing strategies. Functioning this process allows for easy replication and automation when the data is updated or new customers are added. This enables companies to continuously implement up-to-date and accurate customer segmentation and marketing strategies.
+
+# İş Problemi (Business Problem)
+
+## Giriş
+- E-ticaret şirketinin müşterilerini segmentlere ayırma ve pazarlama stratejileri belirleme isteği.  
+
+## Veri Seti Hikayesi
+- Online Retail II veri seti  
+- İngiltere merkezli online satış mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını içeriyor.  
+
+## Değişkenler
+- InvoiceNo  
+- StockCode  
+- Description  
+- Quantity  
+- InvoiceDate  
+- UnitPrice  
+- CustomerID  
+- Country  
+
+## Analiz
+- Müşteri alışveriş alışkanlıklarına göre segmentlere ayrılması  
+- Segmentlere özel pazarlama stratejilerinin belirlenmesi  
+- Müşteri memnuniyetinin artırılması  
+- Satışların ve karlılığın artması  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
