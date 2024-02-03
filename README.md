@@ -6,9 +6,9 @@
 4- RFM Metriklerinin Hesaplanması ( Calculating RFM Metrics)  
 5- RFM Skorlarının Hesaplanması ( Calculating RFM Scores)  
 6- RFM Segmentlerinin Oluşturulması ve Analiz Edilmesi (Creating & Analysing RFM Segments)  
-7- Tüm Sürecin Fonskiyonlaştırılması      
+7- Tüm Sürecin Fonskiyonlaştırılması<br><br>
 
-  <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1430,h_809/https://www.responsedga.com/wp-content/uploads/2021/02/Incontent_image.png" alt="Copilot" width="700" height=auto>    
+  <img src="https://sp-ao.shortpixel.ai/client/to_auto,q_glossy,ret_img,w_1430,h_809/https://www.responsedga.com/wp-content/uploads/2021/02/Incontent_image.png" alt="Copilot" width="700" height=auto> <br><br>    
 
 RFM analysis is a powerful tool for customer segmentation and marketing strategies. This process helps understand customers' purchasing habits and effectively create marketing strategies by categorizing them into different segments based on that.  
 
