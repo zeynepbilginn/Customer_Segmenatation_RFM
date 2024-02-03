@@ -1,5 +1,5 @@
-# Customer Segmenatation With RFM <br><br>
-
+# Customer Segmenatation With RFM 
+<br><br>
 1- İş Problemi ( Bussines Problem)  
 2- Veriyi Anlama ( Data Understanding)  
 3- Veri Hazırlama (Data Preparation)  
