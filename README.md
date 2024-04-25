@@ -23,14 +23,14 @@ RFM metrics measure how often customers make purchases (Recency), how much they 
 - İngiltere merkezli online satış mağazasının 01/12/2009 - 09/12/2011 tarihleri arasındaki satışlarını içeriyor.  
 
 ## Variables
-• InvoiceNo: Invoice number. A unique number for each transaction or invoice. If it starts with 'C', it indicates a cancelled transaction.  
-• StockCode: Product code. A unique number for each product.  
-• Description: Product name.  
-• Quantity: The number of units sold. It indicates how many of each product were sold in the invoices.  
-• InvoiceDate: The date and time of the invoice.  
-• UnitPrice: The price of the product (in pounds sterling).  
-• CustomerID: Unique customer number.  
-• Country: The name of the country. The country where the customer lives.  
+• **InvoiceNo:** Invoice number. A unique number for each transaction or invoice. If it starts with 'C', it indicates a cancelled transaction.  
+• **StockCode:** Product code. A unique number for each product.  
+• **Description:** Product name.  
+• **Quantity:** The number of units sold. It indicates how many of each product were sold in the invoices.  
+• **InvoiceDate:** The date and time of the invoice.  
+• **UnitPrice:** The price of the product (in pounds sterling).  
+• **CustomerID:** Unique customer number.  
+• **Country:** The name of the country. The country where the customer lives.  
 
 ## Analysis
 - Müşteri alışveriş alışkanlıklarına göre segmentlere ayrılması  
